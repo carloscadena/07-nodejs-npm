@@ -1,0 +1,25 @@
+{
+  "name": "07-nodejs-npm",
+  "version": "1.0.0",
+  "description": "adding package.json file to our 07 lab ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloscadena/07-nodejs-npm.git"
+  },
+  "keywords": [
+    "package.json",
+    "file",
+    "lab",
+    "07"
+  ],
+  "author": "Lindsay and Carlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carloscadena/07-nodejs-npm/issues"
+  },
+  "homepage": "https://github.com/carloscadena/07-nodejs-npm#readme"
+}
