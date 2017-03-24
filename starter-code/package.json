@@ -1,0 +1,27 @@
+{
+  "name": "07-nodejs-npm",
+  "version": "1.0.0",
+  "description": "lindsay carlos project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloscadena/07-nodejs-npm.git"
+  },
+  "keywords": [
+    "carlos",
+    "lindsey",
+    "lab-07"
+  ],
+  "author": "lindsay carlos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carloscadena/07-nodejs-npm/issues"
+  },
+  "homepage": "https://github.com/carloscadena/07-nodejs-npm#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
